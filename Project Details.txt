@@ -1,0 +1,36 @@
+[11/11/2018] MahraSabba: 
+The purpose of this project is to create a simple game in Unity, 
+learning and understanding the GDE in the process. 
+
+The idea which I have is of a fun little customizable Tower 
+Defence game in a DnD inspired setting. 
+
+Tower Defence as in a Game where waves of enemies/objects/units
+originate from Point A and travel through a specified path to
+Point B. During their travel, it is the goal of the player to
+eliminate all of these units.
+
+DnD [Dungeons and Dragons] is a trademarked property thus names
+and characters from the official or registered books cannot be 
+used in the project. Otherwise; shapes, models or sprites can be
+inspired by the creatures in the setting. It is a lazy method of
+copy-pasting and slightly changing the character but it is what 
+has always happened in these genres.
+
+Customizable as in being able to create your own path in the start
+of the stage on which the units would arrive. The end point would 
+be static though. Kind of like Hexage's game, Radiant Defence but
+where the start point can be changed too. Due to this feature, 
+the wave difficulty would have to be calculated after the path has
+been fixed and the resources the player has been given. Or maybe 
+not, the resources mainly dictate the difficulty of such games.
+
+The game can be 2D or 3D, this can be decided, None of us have the
+skills to create art thus we would need to learn that or maybe ask
+a friend or acquaintance.
+
+This will be a long project and will require a lot of effort, de-
+dication and determination of which we possess not much of.
+
+If you have another idea, present it in the most basics of methods,
+like this.
